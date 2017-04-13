@@ -12,7 +12,7 @@
         "url": "git+https://github.com/swissglider/SG_Helper.git"
     },
     "keywords": [
-        "sg_documentation"
+        "swissglider", "arduino", "SG_Helper", "D1", "NodeMCU", "Webserver", "Websocket", "OTA"
     ],
     "license": "MIT",
     "bugs": {

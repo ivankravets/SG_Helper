@@ -1,0 +1,14 @@
+{
+  "name": "SG_Helper",
+  "keywords": "swissglider, arduino, D1, sensor, Webserver, Websocket, OTA",
+  "description": "Swissglider D1 / NodeMCU Helper (for Arduino IDE)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/swissglider/SG_Helper.git"
+  },
+  "authors":"swissglider <npm@mailschweiz.com> (https://github.com/swissglider/SG_Helper)",
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
