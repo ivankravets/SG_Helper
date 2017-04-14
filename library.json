@@ -7,7 +7,11 @@
     "type": "git",
     "url": "https://github.com/swissglider/SG_Helper.git"
   },
-  "authors":"swissglider <npm@mailschweiz.com> (https://github.com/swissglider/SG_Helper)",
+  "authors": {
+    "name": "swissglider",
+    "email": "npm@mailschweiz.com",
+    "url": "https://github.com/swissglider/SG_Helper"
+  },
   "version": "0.0.1",
   "frameworks": "arduino",
   "platforms": "espressif8266"
